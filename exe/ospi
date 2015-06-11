@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "tlaloc/adapter/ospi"
+
+
+Tlaloc::Adapter::Ospi::CLI.start(ARGV)
