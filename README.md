@@ -1,5 +1,7 @@
 # Tlaloc::Adapter::Ospi
 
+[![Gem Version](https://badge.fury.io/rb/tlaloc-adapter-ospi.svg)](http://badge.fury.io/rb/tlaloc-adapter-ospi)
+
 An [OSPI](http://rayshobby.net/ospi/) Adapter for [Tlaloc](https://github.com/tlaloc-sprinklers)
 
 Can also be used as a stand alone executable, useful if you wanted to cron your sprinklers.
