@@ -3,6 +3,7 @@
 [![Gem Version](https://badge.fury.io/rb/tlaloc-adapter-ospi.svg)](http://badge.fury.io/rb/tlaloc-adapter-ospi)
 [![Build Status](https://travis-ci.org/tlaloc-sprinklers/tlaloc-adapter-ospi.svg?branch=master)](https://travis-ci.org/tlaloc-sprinklers/tlaloc-adapter-ospi/)
 [![Code Climate](https://codeclimate.com/github/tlaloc-sprinklers/tlaloc-adapter-ospi/badges/gpa.svg)](https://codeclimate.com/github/tlaloc-sprinklers/tlaloc-adapter-ospi)
+[![Dependency Status](https://gemnasium.com/tlaloc-sprinklers/tlaloc-adapter-ospi.svg)](https://gemnasium.com/tlaloc-sprinklers/tlaloc-adapter-ospi)
 
 An [OSPI](http://rayshobby.net/ospi/) Adapter for [Tlaloc](https://github.com/tlaloc-sprinklers)
 
