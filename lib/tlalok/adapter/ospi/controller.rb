@@ -1,4 +1,4 @@
-module Tlaloc
+module Tlalok
   module Adapter
     module Ospi
       class Controller

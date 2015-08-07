@@ -1,7 +1,7 @@
-module Tlaloc
+module Tlalok
   module Adapter
     module Ospi
-      VERSION = "0.1.0"
+      VERSION = "1.0.0"
     end
   end
 end
