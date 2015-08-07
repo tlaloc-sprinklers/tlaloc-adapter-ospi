@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'tlaloc/adapter/ospi/version'
+require 'tlalok/adapter/ospi/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "tlaloc-adapter-ospi"
-  spec.version       = Tlaloc::Adapter::Ospi::VERSION
+  spec.name          = "tlalok-adapter-ospi"
+  spec.version       = Tlalok::Adapter::Ospi::VERSION
   spec.authors       = ["defektive"]
   spec.email         = ["defektive@protonmail.com"]
 
   spec.summary       = %q{gem for controlling an open sprinkler pi http://rayshobby.net/ospi/}
-  spec.homepage      = "https://github.com/tlaloc-sprinklers/tlaloc-adapter-ospi"
+  spec.homepage      = "https://github.com/tlalok-sprinklers/tlalok-adapter-ospi"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

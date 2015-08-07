@@ -1,9 +1,9 @@
 require 'test_helper'
 
-describe ::Tlaloc::Adapter::Ospi::Controller do
+describe ::Tlalok::Adapter::Ospi::Controller do
   before do
     @io = Minitest::Mock.new
-    @controller = ::Tlaloc::Adapter::Ospi::Controller.new(@io)
+    @controller = ::Tlalok::Adapter::Ospi::Controller.new(@io)
   end
 
   describe "opening a station" do

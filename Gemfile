@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in tlaloc-adapter-ospi.gemspec
+# Specify your gem's dependencies in tlalok-adapter-ospi.gemspec
 gemspec
 
 group :raspberry do
